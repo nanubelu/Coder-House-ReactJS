@@ -1,0 +1,6 @@
+.itemList {
+    display: grid;
+    grid-template-columns: repeat(4, 330px);
+    grid-gap: 10px;
+    margin-top: 64px;
+}
